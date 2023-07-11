@@ -1,0 +1,452 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:1:1-122:12
+INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:1:1-122:12
+INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:1:1-122:12
+INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:1:1-122:12
+MERGED from [:file_picker] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\file_picker\intermediates\library_manifest\release\AndroidManifest.xml:2:1-17:12
+MERGED from [:image_compression_flutter] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_compression_flutter\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_image_compress] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_image_compress\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:video_player] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\video_player\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\sqflite\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:receive_sharing_intent] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\receive_sharing_intent\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:wakelock] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\wakelock\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker_android] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:2:1-14:12
+MERGED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:2:1-29:12
+MERGED from [:alert] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\alert\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:2:1-28:12
+MERGED from [:image_cropper] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_cropper\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:share] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\share\intermediates\library_manifest\release\AndroidManifest.xml:2:1-19:12
+MERGED from [:path_provider_android] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\path_provider_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\ffb3e577b83051159f15466c3f121322\webkit-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\48739ba133da941fe41eab37ffb928ef\browser-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\7f3dd40d81a0ae43767399f58da0c99b\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\1ff4bcb3167a74d75651e794e1872ecc\media-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\f50f449d84a75509a55808245aeae993\jetified-ucrop-2.2.8\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\deb78727792fa6d8d7b2bc5d7e053da7\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\ce3ebc619e5dfb0733f565fa7386e494\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\f15ff2f3139cd425ac252625ec2339d7\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\5f33ab19266bc92e8701824034bfd354\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\d68d67d1fe36d069ca661e840ce73d15\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\a71638e40cbd9c9c6e5d2d7449ca53dd\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\eb26273f8f7192460456ce62b9bdf9ef\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\d9536c14ffde0b7289f12ba6def6bfa4\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\a59d1de1f299e68c5b049a432ccfd655\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\42415d22b488b741b7e8fbc712464c00\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\bc28a09d8d2212ffd5788fe6c1853326\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\5f663b08eec19eef9a9d1af662d9025e\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\741a3a255ab1514a7bba7d497116ac52\heifwriter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\b2ea5e05fb4fb851184e9b0af980bf49\jetified-exoplayer-hls-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\f09b8ddd78b021f724ecbb270644c7ef\jetified-exoplayer-dash-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\d9c8ace75a2893fac3be87cf34cd39b5\jetified-exoplayer-smoothstreaming-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\60b85d32c76f6174d43e445a6aa2cefb\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\1fdddb698f5b73fbeb212822ee0a08f1\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\b712161584c0f03d21bcedf0af2bd366\jetified-exoplayer-extractor-2.14.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\9c869d6c39afd30e0ee6a960de621a9b\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\87cae496edf0d81af80ab48e3e89ecce\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\b962778313a0e23f9ca3dbafc012c1af\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\271472d6c0a829dd67d7d2da39490b1d\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\d6c2e54771524a931cd2bdacc9b51b98\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\c39070be4a8b092ae5970162a829e305\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\7bc9dee95bdd13d8392abaa54d3ac4c0\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\eac4820eab11ef9b13679619b341596e\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\3a89b53f4c0e1215dbfe28e33e508887\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\fb333fb43575d8a3b51161295454427f\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\33789d9b6acde6ce9172eed59546467e\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\28c8bed6fae67e41db98432923c9a958\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\f2e73ae2c927c5e2323136b4ee464011\jetified-threetenabp-1.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\a861f0b05a17132e2f96ff286e3c4f23\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:1:1-122:12
+INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:1:1-122:12
+INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:1:1-122:12
+	package
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:2:5-33
+		INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:1:1-122:12
+		INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:1:1-122:12
+		INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:3:6-68
+	android:name
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:3:23-65
+application
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:4:4-103:19
+MERGED from [:image_picker_android] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker_android] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:7:5-17:19
+MERGED from [:url_launcher] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:7:5-12:19
+MERGED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:13:5-27:19
+MERGED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:13:5-27:19
+MERGED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:12:5-26:19
+MERGED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:12:5-26:19
+MERGED from [:share] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\share\intermediates\library_manifest\release\AndroidManifest.xml:7:5-17:19
+MERGED from [:share] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\share\intermediates\library_manifest\release\AndroidManifest.xml:7:5-17:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\5f663b08eec19eef9a9d1af662d9025e\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\5f663b08eec19eef9a9d1af662d9025e\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\87cae496edf0d81af80ab48e3e89ecce\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\87cae496edf0d81af80ab48e3e89ecce\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\f2e73ae2c927c5e2323136b4ee464011\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\f2e73ae2c927c5e2323136b4ee464011\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\5f663b08eec19eef9a9d1af662d9025e\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:5:9-46
+	android:icon
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:6:9-43
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:8:9-11:69
+	android:screenOrientation
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:10:11-47
+	android:theme
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:11:11-67
+	android:name
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:9:11-58
+activity#com.example.fifete.MainActivity
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:13:9-97:20
+	android:launchMode
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:17:13-163
+	android:theme
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:14:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:24:13-27:17
+	android:resource
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:26:15-52
+	android:name
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:25:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:33:13-36:17
+	android:resource
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:35:15-61
+	android:name
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:34:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:39:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.fifete.com+data:host:www.fifete.com+data:scheme:http+data:scheme:https
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:41:13-52:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:42:16-68
+	android:name
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:42:24-65
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:43:16-75
+	android:name
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:43:26-72
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:44:16-77
+	android:name
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:44:26-74
+data
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:46:16-48:57
+	android:host
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:48:20-49
+	android:scheme
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:47:20-42
+	android:mimeType
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:58:22-47
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/*
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:55:13-59:29
+action#android.intent.action.SEND
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:56:16-68
+	android:name
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:56:24-65
+meta-data#flutterEmbedding
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:100:9-102:33
+	android:value
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:102:13-30
+	android:name
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:101:13-44
+queries
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:105:5-121:15
+MERGED from [:file_picker] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\file_picker\intermediates\library_manifest\release\AndroidManifest.xml:9:5-15:15
+MERGED from [:file_picker] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\file_picker\intermediates\library_manifest\release\AndroidManifest.xml:9:5-15:15
+MERGED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:7:5-11:15
+MERGED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:7:5-11:15
+intent#action:name:android.intent.action.VIEW+data:scheme:https
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:107:5-110:14
+intent#action:name:android.intent.action.DIAL+data:scheme:tel
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:112:5-115:14
+action#android.intent.action.DIAL
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:113:7-59
+	android:name
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:113:15-56
+intent#action:name:android.intent.action.SEND+data:mimeType:*/*
+ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml:117:5-120:14
+uses-sdk
+INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml
+MERGED from [:file_picker] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\file_picker\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\file_picker\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:image_compression_flutter] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_compression_flutter\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:image_compression_flutter] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_compression_flutter\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_image_compress] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_image_compress\intermediates\library_manifest\release\AndroidManifest.xml:6:5-9:55
+MERGED from [:flutter_image_compress] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_image_compress\intermediates\library_manifest\release\AndroidManifest.xml:6:5-9:55
+MERGED from [:video_player] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\video_player\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:video_player] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\video_player\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\sqflite\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\sqflite\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:receive_sharing_intent] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\receive_sharing_intent\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:receive_sharing_intent] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\receive_sharing_intent\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\wakelock\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\wakelock\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:alert] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\alert\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:alert] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\alert\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_cropper\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_cropper\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\shared_preferences\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:share] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\share\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:share] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\share\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\path_provider_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\path_provider_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\ffb3e577b83051159f15466c3f121322\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\ffb3e577b83051159f15466c3f121322\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\48739ba133da941fe41eab37ffb928ef\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\48739ba133da941fe41eab37ffb928ef\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\7f3dd40d81a0ae43767399f58da0c99b\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\7f3dd40d81a0ae43767399f58da0c99b\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\1ff4bcb3167a74d75651e794e1872ecc\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\1ff4bcb3167a74d75651e794e1872ecc\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\f50f449d84a75509a55808245aeae993\jetified-ucrop-2.2.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\f50f449d84a75509a55808245aeae993\jetified-ucrop-2.2.8\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\deb78727792fa6d8d7b2bc5d7e053da7\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\deb78727792fa6d8d7b2bc5d7e053da7\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\ce3ebc619e5dfb0733f565fa7386e494\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\ce3ebc619e5dfb0733f565fa7386e494\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\f15ff2f3139cd425ac252625ec2339d7\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\f15ff2f3139cd425ac252625ec2339d7\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\5f33ab19266bc92e8701824034bfd354\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\5f33ab19266bc92e8701824034bfd354\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\d68d67d1fe36d069ca661e840ce73d15\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\d68d67d1fe36d069ca661e840ce73d15\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\a71638e40cbd9c9c6e5d2d7449ca53dd\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\a71638e40cbd9c9c6e5d2d7449ca53dd\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\eb26273f8f7192460456ce62b9bdf9ef\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\eb26273f8f7192460456ce62b9bdf9ef\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\d9536c14ffde0b7289f12ba6def6bfa4\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\d9536c14ffde0b7289f12ba6def6bfa4\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\a59d1de1f299e68c5b049a432ccfd655\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\a59d1de1f299e68c5b049a432ccfd655\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\42415d22b488b741b7e8fbc712464c00\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\42415d22b488b741b7e8fbc712464c00\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\bc28a09d8d2212ffd5788fe6c1853326\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\bc28a09d8d2212ffd5788fe6c1853326\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\5f663b08eec19eef9a9d1af662d9025e\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\5f663b08eec19eef9a9d1af662d9025e\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\741a3a255ab1514a7bba7d497116ac52\heifwriter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\741a3a255ab1514a7bba7d497116ac52\heifwriter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\b2ea5e05fb4fb851184e9b0af980bf49\jetified-exoplayer-hls-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\b2ea5e05fb4fb851184e9b0af980bf49\jetified-exoplayer-hls-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\f09b8ddd78b021f724ecbb270644c7ef\jetified-exoplayer-dash-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\f09b8ddd78b021f724ecbb270644c7ef\jetified-exoplayer-dash-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\d9c8ace75a2893fac3be87cf34cd39b5\jetified-exoplayer-smoothstreaming-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\d9c8ace75a2893fac3be87cf34cd39b5\jetified-exoplayer-smoothstreaming-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\60b85d32c76f6174d43e445a6aa2cefb\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\60b85d32c76f6174d43e445a6aa2cefb\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\1fdddb698f5b73fbeb212822ee0a08f1\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\1fdddb698f5b73fbeb212822ee0a08f1\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\b712161584c0f03d21bcedf0af2bd366\jetified-exoplayer-extractor-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\b712161584c0f03d21bcedf0af2bd366\jetified-exoplayer-extractor-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\9c869d6c39afd30e0ee6a960de621a9b\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\9c869d6c39afd30e0ee6a960de621a9b\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\87cae496edf0d81af80ab48e3e89ecce\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\87cae496edf0d81af80ab48e3e89ecce\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\b962778313a0e23f9ca3dbafc012c1af\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\b962778313a0e23f9ca3dbafc012c1af\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\271472d6c0a829dd67d7d2da39490b1d\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\271472d6c0a829dd67d7d2da39490b1d\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\d6c2e54771524a931cd2bdacc9b51b98\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\d6c2e54771524a931cd2bdacc9b51b98\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\c39070be4a8b092ae5970162a829e305\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\c39070be4a8b092ae5970162a829e305\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\7bc9dee95bdd13d8392abaa54d3ac4c0\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\7bc9dee95bdd13d8392abaa54d3ac4c0\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\eac4820eab11ef9b13679619b341596e\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\eac4820eab11ef9b13679619b341596e\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\3a89b53f4c0e1215dbfe28e33e508887\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\3a89b53f4c0e1215dbfe28e33e508887\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\fb333fb43575d8a3b51161295454427f\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\fb333fb43575d8a3b51161295454427f\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\33789d9b6acde6ce9172eed59546467e\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\33789d9b6acde6ce9172eed59546467e\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\28c8bed6fae67e41db98432923c9a958\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\28c8bed6fae67e41db98432923c9a958\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\f2e73ae2c927c5e2323136b4ee464011\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\f2e73ae2c927c5e2323136b4ee464011\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\a861f0b05a17132e2f96ff286e3c4f23\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\a861f0b05a17132e2f96ff286e3c4f23\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:flutter_image_compress] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_image_compress\intermediates\library_manifest\release\AndroidManifest.xml:9:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:file_picker] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\file_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:file_picker] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\file_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:22-77
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\file_picker\intermediates\library_manifest\release\AndroidManifest.xml:10:9-14:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\file_picker\intermediates\library_manifest\release\AndroidManifest.xml:11:13-72
+	android:name
+		ADDED from [:file_picker] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\file_picker\intermediates\library_manifest\release\AndroidManifest.xml:11:21-69
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker_android] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker_android] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker_android] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker_android] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker_android] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\image_picker_android\intermediates\library_manifest\release\AndroidManifest.xml:14:17-67
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\url_launcher\intermediates\library_manifest\release\AndroidManifest.xml:9:13-74
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:8:9-10:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:9:13-90
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:9:21-87
+activity#com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:14:9-17:47
+	android:configChanges
+		ADDED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:16:13-137
+	android:theme
+		ADDED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:15:13-104
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:18:9-20:55
+	android:theme
+		ADDED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:20:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:19:13-112
+receiver#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:22:9-120
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:22:19-117
+meta-data#io.flutter.embedded_views_preview
+ADDED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:24:9-26:36
+	android:value
+		ADDED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:26:13-33
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_inappwebview\intermediates\library_manifest\release\AndroidManifest.xml:25:13-61
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:10:22-76
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:13:9-15:40
+	android:exported
+		ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:14:13-97
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:16:9-25:20
+	android:exported
+		ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:17:13-101
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:19:13-24:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:20:17-79
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:20:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:21:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:21:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:22:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:23:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\flutter_local_notifications\intermediates\library_manifest\release\AndroidManifest.xml:23:25-79
+provider#io.flutter.plugins.share.ShareFileProvider
+ADDED from [:share] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\share\intermediates\library_manifest\release\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:share] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\share\intermediates\library_manifest\release\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:share] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\share\intermediates\library_manifest\release\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:share] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\share\intermediates\library_manifest\release\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:share] C:\Users\dotDev\Desktop\app\Nouveau dossier\fifete\build\share\intermediates\library_manifest\release\AndroidManifest.xml:9:13-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\60b85d32c76f6174d43e445a6aa2cefb\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\9c869d6c39afd30e0ee6a960de621a9b\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\9c869d6c39afd30e0ee6a960de621a9b\jetified-exoplayer-common-2.14.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.14.1] C:\Users\dotDev\.gradle\caches\transforms-2\files-2.1\60b85d32c76f6174d43e445a6aa2cefb\jetified-exoplayer-core-2.14.1\AndroidManifest.xml:24:22-76
